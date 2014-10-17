@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ukq:home|Door43 (ukq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ukq|d43-ukq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ukq/archive/master.zip|d43-ukq.zip]]
+
+**Recent Changes**
+{{changes>ns = ukq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ukq|Ethnologue data]]
+
